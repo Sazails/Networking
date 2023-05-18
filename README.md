@@ -1,5 +1,5 @@
 # Networking
-Learning stuff
+Learning and project resources
 
 **Including**
-Configuring network devices using programming (Python)
+Configuring network devices using scripts (Python)
